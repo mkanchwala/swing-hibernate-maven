@@ -1,6 +1,5 @@
 swing-hibernate-maven
 =====================
 
-Test a Hibernate - Swing - Maven  project that is managed by GIT. 
-
-Main project is taken from Netbeans.org: https://netbeans.org/kb/docs/java/maven-hib-java-se.html
+Test Projects on Swing Maven Project for Research
+1) DVD Store Project with Sakila Database from Netbeans Org.
